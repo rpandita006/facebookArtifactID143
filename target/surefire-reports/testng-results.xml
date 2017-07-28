@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="14657" started-at="2017-07-25T13:41:36Z" finished-at="2017-07-25T13:41:51Z">
+  <suite name="Suite" duration-ms="9402" started-at="2017-07-28T13:25:09Z" finished-at="2017-07-28T13:25:19Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="14657" started-at="2017-07-25T13:41:36Z" finished-at="2017-07-25T13:41:51Z">
+    <test name="Test" duration-ms="9402" started-at="2017-07-28T13:25:09Z" finished-at="2017-07-28T13:25:19Z">
       <class name="facebookArtifactID.LoginClass">
-        <test-method status="PASS" signature="facebookLogisnProcedure()[pri:0, instance:facebookArtifactID.LoginClass@79b4d0f]" name="facebookLogisnProcedure" duration-ms="14636" started-at="2017-07-25T19:11:36Z" finished-at="2017-07-25T19:11:51Z">
+        <test-method status="PASS" signature="facebookLogisnProcedure()[pri:0, instance:facebookArtifactID.LoginClass@79b4d0f]" name="facebookLogisnProcedure" duration-ms="9390" started-at="2017-07-28T18:55:09Z" finished-at="2017-07-28T18:55:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- facebookLogisnProcedure -->

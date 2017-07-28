@@ -31,7 +31,8 @@ public class LoginClass {
 		  dCaps = new DesiredCapabilities();
 		  dCaps.setJavascriptEnabled(true);
 		dCaps.setCapability("takesScreenshot", false);
-		  
+		
+		 System.out.println("Browser is Launching !!!!!!!!");
 		  driver = new PhantomJSDriver(dCaps);
 
 		  driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
